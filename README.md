@@ -23,6 +23,7 @@ Occupation, Age, Payment_Behavior → Demographic & behavioral attributes
 📊 Visualizations & Insights
 
 ✔️ Boxplots & Violinplots → Show relationships between income, debt, and credit scores
+
 ✔️ Countplots → Distribution of customers across credit score categories
 ✔️ Barplots → Average monthly balance by occupation
 ✔️ Correlation Analysis → Detects which features strongly influence credit score
