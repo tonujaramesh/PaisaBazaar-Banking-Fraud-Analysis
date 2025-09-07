@@ -1,6 +1,6 @@
 # PaisaBazaar - Banking Fraud Analysis
 
-**Project Overview**
+📌 **Project Overview**
 This project analyzes and classifies customer credit scores 🏦 to support risk management  and loan approvals . Using the Paisabazaar dataset 📂, it explores factors like income , credit usage ,and payment behavior  to enhance financial decisions , reduce defaults , and offer personalized recommendations 💡.
 
 Using the Paisabazaar dataset, we explore customer attributes such as:
